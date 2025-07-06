@@ -2,6 +2,8 @@
 
 This is Customed Installer for Game Tower Of Fantasy!!! So Enjoy to use this!!!
 
+[Join To My Discord Server](https://discord.gg/rikkomatsumato)
+
 ## Donations
 
 [LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
