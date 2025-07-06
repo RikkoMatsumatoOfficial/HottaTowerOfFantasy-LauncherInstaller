@@ -1,0 +1,2 @@
+# HottaTowerOfFantasy-LauncherInstaller
+HottaTowerOfFantasy-LauncherInstaller by RikkoMatsumatoOfficial
